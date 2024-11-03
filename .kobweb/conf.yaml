@@ -1,5 +1,6 @@
 site:
   title: "Text Game Engine"
+  routePrefix: "AJTextGameEngine"
 
 server:
   files:
