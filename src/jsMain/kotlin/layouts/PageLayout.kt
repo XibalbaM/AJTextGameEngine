@@ -36,7 +36,7 @@ fun PageLayout(title: String, content: @Composable () -> Unit) {
         "/" to "Accueil",
         "/histoires" to "Histoires",
         "/creer" to "Créer",
-        "" to "Github" //TODO
+        "https://github.com/XibalbaM/AJTextGameEngine" to "Github"
     ))
     Main(MainTheme.toAttrs()) {
         content()
