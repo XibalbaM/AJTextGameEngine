@@ -1,0 +1,10 @@
+title: Le parchemin ancien
+text: "Vous prenez le parchemin sur l'autel, et dès que vous le touchez, une lumière intense jaillit, enveloppant votre main. Des mots anciens apparaissent sur le parchemin, formant une carte de la région avec des lieux marqués d'un symbole mystérieux. Cependant, une voix résonne dans votre esprit : \"Ce pouvoir a un prix. Que cherches-tu à accomplir ?\" Une sensation de chaleur se répand en vous, comme si une force ancienne vous liait à cette quête."
+
+choices:
+  - chapter: 28.yaml  
+    text: Étudier la carte pour comprendre où elle mène  
+  - chapter: 29.yaml  
+    text: Reposer le parchemin et quitter la colline  
+  - chapter: 4.yaml  
+    text: Laisser le parchemin et emprunter le sentier de l'autre côté de la colline

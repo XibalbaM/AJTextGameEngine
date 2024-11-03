@@ -1,0 +1,10 @@
+title: Exploration de la grotte
+text: "Vous entrez dans la grotte, et la lueur étrange à l'intérieur s’intensifie. En avançant, vous découvrez un lac souterrain, où des cristaux lumineux bordent les parois. Une île se trouve au centre, et une statue colossale se dresse dessus, tenant un bâton mystérieux qui semble pulser de pouvoir. Vous ressentez une énergie puissante émanant du bâton, comme s'il attendait que quelqu'un le réclame."
+
+choices:
+  - chapter: 61.yaml  
+    text: Traverser le lac pour atteindre l’île et examiner le bâton  
+  - chapter: 62.yaml  
+    text: Observer la statue depuis la rive sans approcher  
+  - chapter: 14.yaml  
+    text: Quitter la grotte et poursuivre votre chemin ailleurs

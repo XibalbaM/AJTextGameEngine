@@ -1,0 +1,35 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://example.com/schemas/story-info.schema.json",
+    "title": "Chapter",
+    "type": "object",
+    "properties": {
+        "title": {
+            "type": "string",
+            "description": "The title of the chapter"
+        },
+        "text": {
+            "type": "string",
+            "description": "The text of the chapter"
+        },
+        "choices": {
+            "type": "array",
+            "description": "The choices available at the end of the chapter",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "text": {
+                        "type": "string",
+                        "description": "The text of the choice"
+                    },
+                    "chapter": {
+                        "type": "string",
+                        "description": "The ID of the chapter to go to if this choice is selected"
+                    }
+                },
+                "required": ["text", "chapter"]
+            }
+        }
+    },
+    "required": ["title", "text"]
+}

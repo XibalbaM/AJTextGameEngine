@@ -1,0 +1,10 @@
+title: Le chemin solitaire
+text: "Vous laissez le mendiant derrière vous et continuez à avancer dans la vallée sombre. La brume se dissipe légèrement, et le sentier devient plus escarpé. Au loin, vous entendez un murmure, comme une rivière cachée. En vous approchant, vous découvrez un pont de corde ancien, suspendu au-dessus d’un ravin profond. Le bois semble pourri, et le pont oscille sous l’effet du vent. Un panneau gravé indique : \"Passez, si le courage vous le permet.\""
+
+choices:
+  - chapter: 14.yaml
+    text: Traverser le pont de corde
+  - chapter: 15.yaml
+    text: Chercher un autre moyen de traverser le ravin
+  - chapter: index.yaml
+    text: Rebrousser chemin vers la clairière

@@ -1,0 +1,8 @@
+title: "La première épreuve : L’ombre intérieure"
+text: "Vous avancez, et soudain l’obscurité vous entoure. Une silhouette apparaît devant vous, ressemblant étrangement à votre propre reflet, mais aux yeux perçants et au sourire sinistre. \"Je suis tes peurs et tes doutes,\" murmure-t-elle. \"Oseras-tu m'affronter ?\" Elle tend une main glaciale vers vous, prête à tester votre courage."
+
+choices:
+  - chapter: 69.yaml  
+    text: Affronter votre ombre et prouver votre bravoure  
+  - chapter: 70.yaml  
+    text: Essayer de fuir cette vision terrifiante

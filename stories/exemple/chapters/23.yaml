@@ -1,0 +1,8 @@
+title: Observation silencieuse
+text: "Vous décidez de rester au bord du ruisseau et d'observer les créatures lumineuses sans les déranger. Leur danse hypnotique vous détend, et un profond sentiment de paix vous envahit. À mesure que vous les contemplez, une vision se forme dans votre esprit, vous montrant des chemins secrets dans la forêt et les dangers à éviter. Ce savoir pourrait être utile pour la suite de votre aventure."
+
+choices:
+  - chapter: 44.yaml  
+    text: Utiliser la vision pour choisir un chemin sûr dans la forêt  
+  - chapter: 9.yaml  
+    text: Suivre le ruisseau, guidé par votre intuition

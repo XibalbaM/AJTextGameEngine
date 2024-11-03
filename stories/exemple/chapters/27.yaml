@@ -1,0 +1,8 @@
+title: Le repos sous les étoiles
+text: "Vous vous allongez dans l'herbe de la clairière, fermant les yeux et écoutant les bruits apaisants de la nature. Le murmure du vent dans les arbres et le chant des oiseaux vous plongent dans un sommeil profond. Pendant votre sommeil, vous faites un rêve étrange : une voix ancienne vous appelle, promettant de vous guider dans votre quête si vous acceptez de faire preuve de sagesse et de courage. À votre réveil, vous vous sentez renouvelé, comme si une force mystérieuse veillait sur vous."
+
+choices:
+  - chapter: 51.yaml  
+    text: Suivre l’appel de la voix dans vos rêves  
+  - chapter: index.yaml
+    text: Retourner vers la clairière pour explorer un autre chemin

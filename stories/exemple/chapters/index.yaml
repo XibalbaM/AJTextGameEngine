@@ -1,0 +1,10 @@
+title: L'aube d'une aventure
+text: "Vous vous réveillez dans une clairière, entouré de hauts arbres dont les cimes touchent presque le ciel. Vous ne vous souvenez de rien, à part votre nom inscrit sur un médaillon autour de votre cou. Le vent murmure dans les feuilles, et devant vous, trois chemins s’ouvrent, chacun dans une direction différente : l'un descend vers une vallée sombre, l'autre serpente dans la forêt profonde, et le dernier mène vers une colline baignée de lumière. Une étrange sensation vous attire vers chacun d’eux, mais il vous faut choisir."
+
+choices:
+  - chapter: 2.yaml
+    text: Emprunter le chemin vers la vallée sombre
+  - chapter: 3.yaml
+    text: Avancer dans la forêt profonde
+  - chapter: 4.yaml
+    text: Gravir la colline lumineuse

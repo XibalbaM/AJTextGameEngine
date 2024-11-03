@@ -1,0 +1,10 @@
+title: Le ruisseau aux lumières scintillantes
+text: "Vous suivez le ruisseau, fasciné par les petites lumières qui dansent à la surface de l’eau. En vous approchant, vous réalisez qu'il s’agit de minuscules créatures lumineuses, semblables à des lucioles, flottant juste au-dessus du courant. Soudain, l'une d'elles s'éloigne et s'arrête pour vous regarder fixement, comme si elle vous attendait. Elle virevolte, puis commence à suivre un chemin parallèle au ruisseau, en s’assurant que vous la suivez.\n\nVous sentez que la créature pourrait vous conduire vers quelque chose de précieux… ou de dangereux."
+
+choices:
+  - chapter: 22.yaml
+    text: Suivre la créature lumineuse
+  - chapter: 23.yaml
+    text: Rester près du ruisseau et observer les créatures sans les suivre
+  - chapter: 24.yaml
+    text: Ignorer les créatures et continuer à longer le ruisseau

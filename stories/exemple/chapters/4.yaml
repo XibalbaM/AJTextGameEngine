@@ -1,0 +1,10 @@
+title: Au sommet de la colline
+text: Vous montez lentement vers le sommet de la colline baignée de lumière. L'air devient plus clair et plus frais à mesure que vous approchez du sommet, et la vue s'ouvre progressivement sur les vallées environnantes. Une fois arrivé, vous apercevez un autel de pierre couvert de symboles anciens. Sur l'autel repose un ancien parchemin, illuminé par un rayon de soleil. À côté, un sentier étroit semble descendre de l'autre côté de la colline, tandis qu'un corbeau noir, perché non loin, vous observe fixement.
+
+choices:
+  - chapter: 11.yaml
+    text: Prendre le parchemin
+  - chapter: 12.yaml
+    text: Descendre le sentier de l'autre côté de la colline
+  - chapter: index.yaml
+    text: Revenir à la clairière

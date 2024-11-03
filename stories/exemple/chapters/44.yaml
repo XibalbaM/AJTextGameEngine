@@ -1,0 +1,8 @@
+title: Vision du chemin sûr
+text: "Grâce à la vision, vous percevez un sentier sûr à travers les dangers de la forêt, illuminé dans votre esprit comme un guide. En suivant ce chemin, vous évitez les pièges et les créatures hostiles, avançant avec aisance. Cependant, la vision s'accompagne d'une voix vous avertissant que prendre cette voie pourrait vous faire manquer des épreuves essentielles."
+
+choices:
+  - chapter: 76.yaml  
+    text: Continuer sur ce chemin sûr sans vous détourner  
+  - chapter: 12.yaml  
+    text: Quitter ce chemin pour prendre des risques et trouver des trésors cachés

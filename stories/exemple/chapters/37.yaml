@@ -1,0 +1,8 @@
+title: Ignorer la pierre
+text: "Vous décidez d'ignorer la pierre et continuez votre chemin dans la forêt. Les arbres semblent se resserrer autour de vous, et une brume épaisse descend, limitant votre vue. En avançant, vous entendez des murmures lointains et voyez des ombres danser à travers la brume. Vous avez l’impression de vous aventurer dans un monde parallèle, où le temps et l’espace n’ont plus d’importance."
+
+choices:
+  - chapter: 65.yaml  
+    text: Suivre les murmures pour voir où ils mènent  
+  - chapter: 66.yaml  
+    text: Ignorer les murmures et continuer à avancer dans la brume

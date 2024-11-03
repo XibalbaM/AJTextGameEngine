@@ -1,0 +1,8 @@
+title: Effets de la potion de guérison
+text: "En buvant la potion de guérison, vous sentez toutes vos douleurs et blessures disparaître comme par magie. Votre esprit se clarifie, et vous avez l’impression de renaitre. Cependant, un effet secondaire apparaît : une intense fatigue mentale s’installe, comme si votre esprit avait absorbé la douleur de tous les lieux environnants."
+
+choices:
+  - chapter: 72.yaml  
+    text: Reposer votre esprit avant de continuer  
+  - chapter: 19.yaml  
+    text: Prendre une autre potion pour contrecarrer la fatigue

@@ -1,0 +1,8 @@
+title: Le trésor perdu
+text: "\"Le trésor dont je te parle n’est pas seulement fait d’or et de pierres précieuses,\" dit le mendiant d’un ton solennel. \"Il est un fragment de pouvoir ancien, une relique cachée au cœur de la vallée, qui peut exaucer le souhait le plus cher de celui qui la trouve. Mais attention : quiconque touche cette relique doit aussi payer le prix de son âme.\" Il vous regarde avec intensité. \"As-tu vraiment le courage de le chercher ?\""
+
+choices:
+  - chapter: 38.yaml  
+    text: Partir en quête de la relique malgré les avertissements  
+  - chapter: 6.yaml  
+    text: Abandonner la quête et poursuivre votre chemin dans la vallée

@@ -1,0 +1,8 @@
+title: Le murmure des ancêtres
+text: "Un jour, en méditant dans la forêt, vous entendez un murmure ancien. Les esprits des ancêtres se manifestent, vous offrant leur sagesse. Ils vous révèlent que d'autres dangers menacent l'équilibre de votre monde et que vous êtes destiné à être leur protecteur."
+
+choices:
+  - chapter: 88.yaml  
+    text: Accepter votre rôle de protecteur et préparer votre communauté  
+  - chapter: 89.yaml  
+    text: Ignorer le murmure et continuer votre vie paisible

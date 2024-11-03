@@ -1,0 +1,10 @@
+title: Dans les ténèbres de la vallée
+text: "Vous descendez le chemin qui vous mène vers la vallée sombre. À mesure que vous avancez, l'air devient plus frais, et une brume épaisse se lève, enveloppant les alentours d'un mystère inquiétant. Vous entendez des bruissements dans les buissons, et soudain, une silhouette apparaît. C’est un vieux mendiant, vêtu de haillons, avec un sourire étrange qui révèle des dents jaunes. Il tend la main vers vous et murmure : \"Peux-tu m'aider, voyageur ? En échange, je te révélerai un secret de cette vallée.\""
+
+choices:
+  - chapter: 5.yaml
+    text: Aider le vieux mendiant
+  - chapter: 6.yaml
+    text: Ignorer le mendiant et continuer votre chemin
+  - chapter: 7.yaml
+    text: Lui poser des questions avant de décider

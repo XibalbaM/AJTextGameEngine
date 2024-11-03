@@ -1,0 +1,8 @@
+title: La relique du destin
+text: "Vous vous aventurez dans la vallée, guidé par l'appel de la relique. En atteignant le cœur de la vallée, vous découvrez une stèle où repose un objet mystérieux : une amulette noire ornée d’un symbole brillant. Vous ressentez une énergie puissante, mais inquiétante. L'amulette semble appeler à votre âme, vous offrant un pouvoir immense… mais à quel prix ?"
+
+choices:
+  - chapter: 67.yaml  
+    text: Prendre l'amulette et accepter son pouvoir  
+  - chapter: 68.yaml  
+    text: Refuser l'amulette et quitter la vallée

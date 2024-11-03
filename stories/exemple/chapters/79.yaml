@@ -1,0 +1,8 @@
+title: L'éveil de la créature
+text: "L'éclaireur raconte que la créature, un dragon ancien, est liée à des forces obscures. Elle cherche à se venger et à ravager le royaume. Vous savez que vous devez agir rapidement pour sceller à nouveau cette créature avant qu'il ne soit trop tard."
+
+choices:
+  - chapter: 96.yaml  
+    text: Partir en quête pour retrouver le moyen de sceller la créature  
+  - chapter: 97.yaml  
+    text: Préparer le village à défendre sa terre contre le dragon

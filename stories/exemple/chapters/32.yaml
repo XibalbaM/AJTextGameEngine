@@ -1,0 +1,10 @@
+title: Entrée dans le temple caché
+text: "Vous franchissez le seuil du temple, une odeur d’encens et de pierres anciennes flottant dans l'air. À l'intérieur, des statues de divinités oubliées se dressent, leurs visages impassibles fixant l’obscurité. Une grande salle s’étend devant vous, illuminée par des torches vacillantes, et un piédestal au centre soutient un orbe lumineux. Une voix lointaine murmure : \"Le pouvoir que tu cherches demande un sacrifice.\""
+
+choices:
+  - chapter: 58.yaml  
+    text: Approcher et toucher l’orbe  
+  - chapter: 59.yaml  
+    text: Ignorer l’orbe et explorer les autres parties du temple  
+  - chapter: 13.yaml  
+    text: Revenir sur vos pas et quitter le temple

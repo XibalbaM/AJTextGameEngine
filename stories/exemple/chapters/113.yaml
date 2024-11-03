@@ -1,0 +1,8 @@
+title: La stratégie offensive
+text: "Vous choisissez de rassembler vos alliés pour discuter d'une stratégie offensive. Ensemble, vous élaborez un plan pour attaquer l'entité maléfique avec une force renouvelée. L'énergie et la détermination de chacun sont palpables alors que vous vous préparez à affronter le mal une fois pour toutes."
+
+choices:
+  - chapter: 114.yaml  
+    text: Lancer une attaque surprise  
+  - chapter: 115.yaml  
+    text: Préparer une défense solide avant l'attaque

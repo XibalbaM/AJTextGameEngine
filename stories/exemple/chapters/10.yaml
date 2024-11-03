@@ -1,0 +1,10 @@
+title: Retour à la clairière
+text: "Vous décidez de retourner sur vos pas, laissant derrière vous le mystère de la forêt. Après quelques minutes de marche, vous retrouvez la clairière où vous vous êtes réveillé. L’endroit est calme, comme figé dans le temps, mais quelque chose a changé. Un cercle de pierres anciennes, que vous n’aviez pas remarqué auparavant, se trouve maintenant au centre de la clairière, avec des symboles gravés dessus. Une énergie étrange semble émaner du cercle, et un murmure lointain résonne dans votre esprit.\n\nIl semble que la clairière elle-même vous offre un nouveau choix."
+
+choices:
+  - chapter: 25.yaml
+    text: Approcher le cercle de pierres et toucher les symboles
+  - chapter: 26.yaml
+    text: Ignorer le cercle et partir explorer la clairière
+  - chapter: 27.yaml
+    text: S’allonger dans l’herbe et attendre

@@ -1,0 +1,10 @@
+title: La route vers le temple caché
+text: "Vous suivez le chemin indiqué par le mendiant, qui devient de plus en plus étroit et entouré de ronces. Finalement, vous apercevez les ruines d’un ancien temple, caché sous la végétation. Des gravures ornent les pierres, et vous entendez un faible écho, comme un battement de cœur provenant de l'intérieur. Un immense portail vous fait face, marqué d’un symbole mystérieux. Une étrange force semble attirer votre regard vers ce portail."
+
+choices:
+  - chapter: 32.yaml  
+    text: Entrer dans le temple et découvrir ce qui se cache à l'intérieur  
+  - chapter: 33.yaml  
+    text: Explorer les alentours du temple sans y entrer  
+  - chapter: 6.yaml  
+    text: Revenir en arrière et éviter le temple

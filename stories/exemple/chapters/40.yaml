@@ -1,0 +1,8 @@
+title: Effets de la potion de force
+text: "Vous buvez la potion de force, et une chaleur intense se répand dans votre corps. Vous sentez vos muscles se renforcer, votre endurance augmenter, et une sensation d'invincibilité s’empare de vous. Mais soudain, un effet inattendu se manifeste : votre perception du temps s'accélère, rendant les minutes floues. Vous réalisez que cette puissance pourrait être difficile à contrôler."
+
+choices:
+  - chapter: 71.yaml  
+    text: Utiliser la force nouvellement acquise pour affronter les dangers de la forêt  
+  - chapter: 42.yaml  
+    text: Prendre une autre potion pour essayer de compenser les effets

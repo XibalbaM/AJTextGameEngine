@@ -1,0 +1,8 @@
+title: Plongée dans les profondeurs
+text: "Vous vous lancez dans le lac, l'eau froide enveloppant votre corps. À mesure que vous plongez, la lueur devient de plus en plus intense. Vous découvrez une grotte sous-marine ornée de cristaux étincelants, mais vous sentez la pression de l'eau peser sur vous. Au centre de la grotte, une sphère lumineuse flotte, pulsant avec une énergie incroyable."
+
+choices:
+  - chapter: 78.yaml  
+    text: Tenter de saisir la sphère lumineuse  
+  - chapter: 79.yaml  
+    text: Explorer la grotte avant de toucher à la sphère

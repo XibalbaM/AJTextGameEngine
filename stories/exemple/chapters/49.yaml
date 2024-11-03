@@ -1,0 +1,8 @@
+title: La lumière du chemin
+text: "Vous suivez le chemin des cristaux et émergez d'une grotte. Le paysage devant vous est éblouissant, baigné de lumière. Vous réalisez que ce chemin vous a mené à un portail, scintillant comme un rêve. En approchant, vous sentez une force incroyable se dégager de celui-ci, prête à vous transporter ailleurs."
+
+choices:
+  - chapter: 82.yaml  
+    text: Traverser le portail et découvrir ce qui se cache de l'autre côté  
+  - chapter: 83.yaml  
+    text: Rester dans ce monde lumineux et explorer davantage

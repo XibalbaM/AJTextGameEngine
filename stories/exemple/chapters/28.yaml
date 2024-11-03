@@ -1,0 +1,10 @@
+title: La carte révélatrice
+text: "Vous étudiez la carte et comprenez qu'elle indique des lieux clés de la forêt, chacun lié à un élément : feu, eau, air et terre. Ces endroits semblent détenir des pouvoirs spécifiques, mais un avertissement est inscrit au bas du parchemin : \"Que celui qui cherche l'équilibre s'aventure avec sagesse, car les éléments peuvent détruire autant qu’ils peuvent renforcer.\" Vous sentez que cette carte vous mène vers une série d'épreuves nécessaires pour atteindre le cœur de votre quête."
+
+choices:
+  - chapter: 52.yaml  
+    text: Suivre la carte vers le sanctuaire du feu  
+  - chapter: 53.yaml  
+    text: Suivre la carte vers le sanctuaire de l’eau  
+  - chapter: 29.yaml  
+    text: Abandonner la carte et quitter la colline

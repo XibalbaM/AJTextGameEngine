@@ -1,0 +1,8 @@
+title: Le temps des épreuves
+text: "Avec le dragon scellé, vous sentez une nouvelle paix s'installer. Cependant, vous savez que chaque période de calme peut être suivie de nouveaux défis. Vous décidez d'organiser des épreuves pour préparer les jeunes aventuriers à d'éventuels dangers futurs. Cela leur permettra de prouver leur valeur et de renforcer leur unité."
+
+choices:
+  - chapter: 100.yaml  
+    text: Organiser des épreuves de force et de courage  
+  - chapter: 101.yaml  
+    text: Enseigner des compétences de survie et de sagesse

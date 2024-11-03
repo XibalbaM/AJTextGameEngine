@@ -1,0 +1,8 @@
+title: L'émergence d'une nouvelle menace
+text: "Alors que les épreuves se déroulent, des rumeurs commencent à circuler sur une nouvelle menace qui se profile à l'horizon. Des créatures mystérieuses commencent à apparaître dans la forêt, perturbant la paix fragile. Vous sentez qu'il est temps d'agir et de découvrir ce qui se passe réellement."
+
+choices:
+  - chapter: 102.yaml  
+    text: Envoyer un groupe d'éclaireurs pour enquêter sur les créatures  
+  - chapter: 103.yaml  
+    text: Rassembler les aventuriers pour faire face à la menace ensemble

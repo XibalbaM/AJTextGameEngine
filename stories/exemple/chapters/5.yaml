@@ -1,0 +1,8 @@
+title: Le secret du mendiant
+text: "Vous tendez une pièce au vieux mendiant, qui la regarde avec un étrange sourire. \"Merci, voyageur,\" murmure-t-il, avant de prononcer une formule incompréhensible. La brume autour de vous s’épaissit et se transforme en une vision : vous voyez un ancien temple caché dans la forêt, rempli de trésors, mais aussi de pièges mortels. La vision disparaît aussi soudainement qu’elle est apparue. Le mendiant éclate de rire et pointe le chemin vers l’est. \"Va là-bas, si tu oses… mais sache que tout trésor a son prix.\" Il s’éloigne dans la brume."
+
+choices:
+  - chapter: 13.yaml
+    text: Suivre le chemin vers le temple caché
+  - chapter: 6.yaml
+    text: Continuer sur votre chemin sans vous soucier du temple

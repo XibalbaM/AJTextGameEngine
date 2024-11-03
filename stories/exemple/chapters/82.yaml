@@ -1,0 +1,8 @@
+title: La sagesse du sceau
+text: "Au cours du combat, vous réalisez que la créature n'est pas uniquement un monstre, mais qu'elle est liée à l'équilibre du monde. Vous tentez de communiquer avec elle, lui expliquant que son réveil menace non seulement votre royaume, mais aussi elle-même. Cela semble la perturber."
+
+choices:
+  - chapter: 98.yaml  
+    text: Poursuivre la conversation et tenter de la convaincre de se rendormir  
+  - chapter: 99.yaml  
+    text: Utiliser la force pour tenter de l'immobiliser avant qu'elle ne cause des dégâts

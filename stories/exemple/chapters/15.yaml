@@ -1,0 +1,10 @@
+title: À la recherche d'un autre passage
+text: "Vous décidez de ne pas prendre le risque de traverser le pont de corde. En explorant les environs, vous découvrez un sentier étroit qui descend vers le fond du ravin. Le chemin est difficile, mais il semble praticable. Au fond, une rivière coule doucement, et un passage de pierres permet de traverser à pied. Une fois de l'autre côté, vous apercevez une grande pierre gravée de symboles étranges, comme une invitation silencieuse."
+
+choices:
+  - chapter: 36.yaml  
+    text: Examiner la pierre gravée pour comprendre ses secrets  
+  - chapter: 37.yaml  
+    text: Ignorer la pierre et continuer le chemin  
+  - chapter: 6.yaml  
+    text: Retourner sur vos pas

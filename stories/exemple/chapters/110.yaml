@@ -1,0 +1,8 @@
+title: La réflexion
+text: "En prenant un moment pour évaluer la situation, vous réalisez que la colère et la méfiance ne feront qu'alimenter le cycle de violence. Vous envisagez de revenir à la négociation, espérant trouver un terrain d'entente avec le chef des ténèbres. Cette décision pourrait apporter une solution durable au conflit."
+
+choices:
+  - chapter: 112.yaml  
+    text: Retourner vers le chef des ténèbres pour discuter de l'alliance  
+  - chapter: 113.yaml  
+    text: Rassembler vos alliés pour discuter d'une stratégie offensive

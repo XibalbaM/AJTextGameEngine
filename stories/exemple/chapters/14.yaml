@@ -1,0 +1,10 @@
+title: Traversée du pont de corde
+text: "Vous prenez une grande inspiration et posez un pied sur le pont de corde. Il grince sous votre poids, mais vous continuez, un pas après l'autre. En atteignant le milieu du pont, une bourrasque secoue les cordes, et vous vous accrochez fermement. De l'autre côté, vous apercevez une grotte partiellement cachée par des racines. Une lueur étrange en émane, et des murmures se font entendre, comme des voix chuchotant votre nom."
+
+choices:
+  - chapter: 34.yaml  
+    text: Entrer dans la grotte pour explorer ce qui s'y cache  
+  - chapter: 35.yaml  
+    text: Continuer votre route sans entrer dans la grotte  
+  - chapter: 6.yaml  
+    text: Revenir sur vos pas pour éviter le pont

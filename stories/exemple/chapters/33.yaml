@@ -1,0 +1,8 @@
+title: Exploration des alentours du temple
+text: "Plutôt que d'entrer dans le temple, vous examinez les environs et découvrez des traces dans la végétation, comme si quelqu'un avait récemment passé par là. Ces traces vous mènent à une petite cache dissimulée sous des feuilles. En ouvrant la cache, vous trouvez un ancien journal détaillant les épreuves du temple et des indices sur les protections magiques qui s’y trouvent. Vous réalisez que cette information pourrait être précieuse pour éviter les pièges."
+
+choices:
+  - chapter: 60.yaml  
+    text: Entrer dans le temple en utilisant les informations du journal  
+  - chapter: 13.yaml  
+    text: Partir en emportant le journal pour l’utiliser plus tard

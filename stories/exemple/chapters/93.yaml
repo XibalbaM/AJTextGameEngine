@@ -1,0 +1,8 @@
+title: La bataille pour la forêt
+text: "En préparant votre groupe, vous apprenez que les créatures sont en train de se rassembler pour une attaque massive contre la forêt. Vous devez mobiliser vos forces et élaborer un plan de défense pour protéger votre communauté. Le courage et la détermination des jeunes aventuriers sont mis à l'épreuve."
+
+choices:
+  - chapter: 104.yaml  
+    text: Organiser la défense du village  
+  - chapter: 105.yaml  
+    text: Confrontation directe avec les créatures dans la forêt

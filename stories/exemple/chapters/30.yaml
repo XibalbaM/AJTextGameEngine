@@ -1,0 +1,10 @@
+title: Entrée dans le sanctuaire
+text: "Vous franchissez la porte de pierre et pénétrez dans l'obscurité du sanctuaire. Les murs sont ornés de fresques anciennes, illustrant des histoires de héros oubliés et de créatures mythiques. Des torches vacillantes éclairent faiblement votre passage, et une odeur de pierre humide envahit l’air. Plus vous avancez, plus vous sentez une énergie puissante vous entourer, comme si le sanctuaire vous mettait à l'épreuve. Au bout du couloir, un autel attend, avec un étrange cristal rougeoyant posé dessus."
+
+choices:
+  - chapter: 54.yaml  
+    text: Prendre le cristal et voir ce qu’il révèle  
+  - chapter: 55.yaml  
+    text: Ignorer le cristal et explorer plus profondément le sanctuaire  
+  - chapter: 12.yaml  
+    text: Quitter le sanctuaire et retourner à l’extérieur

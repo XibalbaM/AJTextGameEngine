@@ -1,0 +1,10 @@
+title: La cabane mystérieuse
+text: "En vous approchant de la cabane, vous remarquez qu’elle est faite de bois ancien et recouverte de lierre. La lumière émise par les champignons scintillants autour de la cabane crée une ambiance féerique. En poussant la porte, vous entrez dans une pièce remplie de potions colorées et de livres aux couvertures usées. Au centre, une sorcière âgée, aux cheveux argentés, lève les yeux vers vous avec un sourire mystérieux. \"Ah, un visiteur ! Que cherches-tu ici, jeune aventurier ?\"\n\nVous hésitez, mais votre curiosité est piquée."
+
+choices:
+  - chapter: 19.yaml
+    text: Demander des potions pour vous aider dans votre quête
+  - chapter: 20.yaml
+    text: Poser des questions sur les secrets de la forêt
+  - chapter: 21.yaml
+    text: Explorer la cabane sans parler à la sorcière

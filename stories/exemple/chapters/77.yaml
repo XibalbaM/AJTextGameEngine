@@ -1,0 +1,8 @@
+title: Les échos du passé
+text: "Alors que vous enseignez aux jeunes aventuriers, des rumeurs commencent à circuler sur une ancienne prophétie. Elle parle d'un grand danger qui pourrait un jour menacer le royaume à nouveau. Vous sentez qu'il est de votre devoir de préparer la prochaine génération à cet éventuel défi."
+
+choices:
+  - chapter: 94.yaml  
+    text: Rassembler les villageois pour discuter de la prophétie  
+  - chapter: 95.yaml  
+    text: Envoyer des éclaireurs pour enquêter sur la menace potentielle

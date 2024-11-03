@@ -1,0 +1,8 @@
+title: Décision dans la grotte
+text: "Au lieu de toucher la sphère, vous explorez la grotte. En examinant les cristaux, vous découvrez qu'ils forment un chemin menant à une sortie. Cette voie vous semble plus sûre, et vous sentez que la magie des cristaux pourrait vous protéger des dangers à l'extérieur."
+
+choices:
+  - chapter: 80.yaml  
+    text: Suivre le chemin des cristaux pour sortir  
+  - chapter: 81.yaml  
+    text: Retourner à la surface et quitter le lac

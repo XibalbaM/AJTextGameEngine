@@ -1,0 +1,8 @@
+title: Le chef des ténèbres
+text: "Au cœur de la bataille, vous identifiez le chef des créatures, une entité sombre qui tire les ficelles. Vous savez que le vaincre est essentiel pour mettre fin à l'attaque. Vous rassemblez vos alliés et élaborez un plan pour l'affronter."
+
+choices:
+  - chapter: 106.yaml  
+    text: Affronter le chef des ténèbres en équipe  
+  - chapter: 107.yaml  
+    text: Tenter d'atteindre le chef des ténèbres seul

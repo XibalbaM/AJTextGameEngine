@@ -1,0 +1,10 @@
+title: Les questions du mendiant
+text: "Vous décidez de poser des questions au vieux mendiant. \"Qui es-tu ?\" demandez-vous. Le mendiant éclate de rire et répond : \"Je suis un gardien des secrets de cette vallée. Chaque voyageur a son propre chemin, mais je peux t'aider… ou te détourner.\" Intrigué, vous demandez quel secret il connaît. \"Dans cette vallée, un trésor perdu attend d'être découvert, mais il est protégé par un esprit ancien. Tu dois prouver ta valeur pour accéder à ce trésor.\"\n\nIl vous regarde avec intensité. \"Que veux-tu savoir ? Cela pourrait changer ta destinée.\""
+
+choices:
+  - chapter: 16.yaml
+    text: Demander des détails sur le trésor perdu
+  - chapter: 17.yaml
+    text: Demander comment prouver votre valeur
+  - chapter: 18.yaml
+    text: Décider de ne plus parler et partir en quête seul

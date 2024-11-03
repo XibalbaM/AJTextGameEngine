@@ -1,0 +1,10 @@
+title: Contournement des ruines
+text: "Plutôt que d'entrer dans le sanctuaire, vous choisissez de contourner les ruines. À mesure que vous vous éloignez, vous entendez de faibles murmures, comme si les pierres mêmes tentaient de vous parler. Soudain, vous découvrez un tunnel partiellement dissimulé sous des racines. Il semble étroit mais praticable, et pourrait peut-être mener à des endroits cachés que le sanctuaire ne révèle pas aux visiteurs ordinaires."
+
+choices:
+  - chapter: 56.yaml  
+    text: Entrer dans le tunnel pour voir où il mène  
+  - chapter: 57.yaml  
+    text: Ignorer le tunnel et continuer votre route vers l'est  
+  - chapter: 30.yaml  
+    text: Retourner vers le sanctuaire pour explorer l’intérieur

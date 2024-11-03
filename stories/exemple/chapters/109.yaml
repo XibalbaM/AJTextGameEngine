@@ -1,0 +1,8 @@
+title: La défiance persistante
+text: "Vous optez pour ne pas faire confiance au chef des ténèbres, persuadé que sa nature maléfique l'emportera. Vous intensifiez l'affrontement, espérant vaincre l'entité. Cependant, alors que le combat se prolonge, vous commencez à douter de votre approche. Est-ce vraiment la voie à suivre ?"
+
+choices:
+  - chapter: 110.yaml  
+    text: Évaluer la situation et envisager une nouvelle approche  
+  - chapter: 111.yaml  
+    text: Continuer le combat, déterminé à vaincre à tout prix

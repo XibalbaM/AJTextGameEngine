@@ -1,0 +1,8 @@
+title: La preuve de votre valeur
+text: "\"Pour prouver ta valeur,\" dit le mendiant, \"tu devras affronter trois épreuves, chacune représentant une peur cachée au fond de toi. Ces épreuves te montreront qui tu es vraiment, et si tu es digne d'accéder au trésor. La première se trouve ici, dans la vallée, où les ombres prennent vie.\"  \n\nIl pose une main glaciale sur votre épaule et chuchote : \"Es-tu prêt à affronter tes propres démons ?\""
+
+choices:
+  - chapter: 39.yaml  
+    text: Accepter les épreuves et vous préparer à la première  
+  - chapter: 6.yaml  
+    text: Refuser les épreuves et reprendre votre chemin

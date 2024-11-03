@@ -1,0 +1,8 @@
+title: L'ombre s'étend
+text: "Pendant que vous vous préparez, l'ombre de la menace s'étend sur le royaume. Des créatures sombres commencent à attaquer les frontières, semant la peur parmi les habitants. Vous devez agir rapidement pour protéger votre peuple avant qu'il ne soit trop tard."
+
+choices:
+  - chapter: 90.yaml  
+    text: Mener une expédition pour affronter les créatures sombres  
+  - chapter: 91.yaml  
+    text: Rester dans le village pour protéger les habitants

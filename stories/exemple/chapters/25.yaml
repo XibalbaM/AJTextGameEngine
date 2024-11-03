@@ -1,0 +1,8 @@
+title: Le cercle de pierres
+text: "Vous approchez le cercle de pierres et touchez l'un des symboles gravés. Instantanément, une vague d'énergie vous traverse, et une voix ancienne résonne dans votre esprit : \"Toi qui cherches, es-tu prêt à faire face aux épreuves du destin ?\" Une vision fugitive vous montre un chemin illuminé, vous guidant vers un endroit caché au cœur de la forêt. En ouvrant les yeux, le cercle de pierres semble briller faiblement, comme si une porte invisible venait de s'ouvrir."
+
+choices:
+  - chapter: 47.yaml  
+    text: Suivre le chemin indiqué par la vision  
+  - chapter: 48.yaml  
+    text: Quitter la clairière pour explorer un autre endroit

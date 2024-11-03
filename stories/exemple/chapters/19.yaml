@@ -1,0 +1,12 @@
+title: Les potions de la sorcière
+text: "Vous demandez à la sorcière si elle possède des potions qui pourraient vous aider dans votre quête. Elle sourit et fouille dans une vieille malle, en tirant trois fioles poussiéreuses : une potion de force, une de guérison, et une qui dit-elle, révèle les vérités cachées. \"Mais attention,\" prévient-elle, \"chaque potion a un effet secondaire dont tu ignores la nature.\""
+
+choices:
+  - chapter: 40.yaml  
+    text: Prendre la potion de force  
+  - chapter: 41.yaml  
+    text: Prendre la potion de guérison  
+  - chapter: 42.yaml  
+    text: Prendre la potion de vérité  
+  - chapter: 8.yaml  
+    text: Décider de ne prendre aucune potion et quitter la cabane

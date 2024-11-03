@@ -1,0 +1,8 @@
+title: Continuer le chemin sans entrer dans la grotte
+text: "Vous choisissez de ne pas entrer dans la grotte, préférant continuer votre chemin. Après quelques heures de marche, vous arrivez à un champ où une étrange pierre se dresse, marquée par les symboles de chaque élément : feu, eau, air, et terre. Cette pierre semble émettre une énergie subtile, comme si elle pouvait vous offrir une bénédiction élémentaire pour votre aventure."
+
+choices:
+  - chapter: 63.yaml  
+    text: Toucher la pierre pour recevoir une bénédiction élémentaire  
+  - chapter: 15.yaml  
+    text: Ignorer la pierre et continuer sur le chemin

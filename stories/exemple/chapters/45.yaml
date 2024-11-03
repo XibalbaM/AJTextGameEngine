@@ -1,0 +1,8 @@
+title: La lueur du lac
+text: "Depuis la rive, vous contemplez la lueur étrange qui émane du fond du lac. Elle semble pulser au rythme de votre cœur, comme un appel irrésistible. Soudain, une forme serpentine apparaît sous la surface, ses yeux lumineux vous fixant. La créature aquatique vous adresse un message télépathique : \"Si tu cherches à réveiller le pouvoir caché, prépare-toi à affronter les profondeurs.\""
+
+choices:
+  - chapter: 77.yaml  
+    text: Plonger dans le lac pour découvrir le secret  
+  - chapter: 24.yaml  
+    text: Reculer prudemment pour éviter la créature

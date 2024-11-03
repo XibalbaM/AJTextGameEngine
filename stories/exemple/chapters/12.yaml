@@ -1,0 +1,10 @@
+title: La descente de la colline
+text: "Vous descendez le sentier escarpé de l'autre côté de la colline, où le paysage devient de plus en plus brumeux. Au loin, vous apercevez des ruines, cachées en partie par la végétation, avec des statues érodées par le temps. En vous approchant, vous remarquez qu'elles représentent des créatures mi-humaines, mi-animales. Une lourde porte de pierre, entrouverte, mène dans l'obscurité de ce qui semble être un ancien sanctuaire."
+
+choices:
+  - chapter: 30.yaml  
+    text: Entrer dans le sanctuaire et explorer les ruines  
+  - chapter: 31.yaml  
+    text: Contourner les ruines pour continuer votre chemin  
+  - chapter: index.yaml
+    text: Revenir vers la clairière

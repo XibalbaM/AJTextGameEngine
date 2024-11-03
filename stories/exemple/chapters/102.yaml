@@ -1,0 +1,8 @@
+title: La révélation
+text: "Alors que vous combattez le chef des ténèbres, il vous révèle qu'il a été manipulé par une force encore plus puissante. Il avoue son désir de paix, mais sa colère l'a aveuglé. Vous réalisez que la compréhension et la compassion peuvent être des armes plus puissantes que la force brute."
+
+choices:
+  - chapter: 108.yaml  
+    text: Tenter de négocier avec le chef des ténèbres  
+  - chapter: 109.yaml  
+    text: Ne pas faire confiance et continuer l'affrontement

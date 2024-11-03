@@ -1,0 +1,8 @@
+title: L'entité maléfique
+text: "Après la bataille, vous partez à la recherche de l'entité maléfique qui dirige les créatures. En suivant des indices et des légendes anciennes, vous découvrez une forteresse cachée dans les montagnes, où le mal réside. Vous réalisez que cette entité doit être vaincue pour assurer la paix."
+
+choices:
+  - chapter: 92.yaml  
+    text: Affronter l'entité maléfique dans sa forteresse  
+  - chapter: 93.yaml  
+    text: Chercher des alliés avant d'affronter l'entité

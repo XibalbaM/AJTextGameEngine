@@ -1,0 +1,18 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://example.com/schemas/story-info.schema.json",
+    "title": "Story Info",
+    "description": "Information about a story",
+    "type": "object",
+    "properties": {
+        "title": {
+            "type": "string",
+            "description": "The title of the story"
+        },
+        "description": {
+            "type": "string",
+            "description": "A brief description of the story"
+        }
+    },
+    "required": ["title"]
+}

@@ -1,0 +1,8 @@
+title: Le portail dimensionnel
+text: "En traversant le portail, vous êtes enveloppé d'une lumière éclatante. Vous vous retrouvez dans un monde étrange, où le ciel est d'une couleur irréelle et les créatures qui vous entourent parlent des langues anciennes. Un sage vous accueille et vous révèle que vous avez réussi une série d'épreuves, mais qu'un dernier défi vous attend."
+
+choices:
+  - chapter: 84.yaml  
+    text: Accepter le défi du sage et prouver votre valeur  
+  - chapter: 85.yaml  
+    text: Refuser le défi et demander à retourner chez vous

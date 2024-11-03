@@ -1,0 +1,9 @@
+title: Les profondeurs de la forêt
+text: "Vous vous enfoncez dans la forêt, où les arbres se font de plus en plus denses et la lumière diminue peu à peu. L’air est lourd, chargé de l’odeur de la mousse et de l’humus. Après quelques minutes, vous entendez des chuchotements indistincts, comme si la forêt elle-même parlait. Devant vous, un sentier bifurque en deux directions : l’un semble mener vers une petite cabane entourée de champignons lumineux, tandis que l’autre descend vers un ruisseau, où des lumières scintillent à la surface de l’eau, comme des étoiles capturées."
+choices:
+  - chapter: 8.yaml
+    text: Aller vers la cabane mystérieuse
+  - chapter: 9.yaml
+    text: Suivre le ruisseau aux lumières scintillantes
+  - chapter: 10.yaml
+    text: Revenir sur vos pas vers la clairière

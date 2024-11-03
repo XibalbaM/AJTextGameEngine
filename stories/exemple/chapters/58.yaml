@@ -1,0 +1,8 @@
+title: Un dernier mystère
+text: "Alors que vous profitez de la célébration, un voyageur inconnu entre dans le village. Il porte des vêtements usés et une carte ancienne enroulée dans ses mains. Il prétend détenir des secrets sur une contrée lointaine où des trésors et des épreuves encore plus grands vous attendent. Cela ravive en vous l'esprit d'aventure."
+
+choices:
+  - chapter: 86.yaml  
+    text: Suivre le voyageur et explorer ce nouveau monde  
+  - chapter: 87.yaml  
+    text: Rester avec votre communauté et partager vos connaissances

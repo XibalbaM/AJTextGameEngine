@@ -1,0 +1,10 @@
+title: Le long du ruisseau
+text: "Vous continuez à longer le ruisseau, ignorant les créatures lumineuses. Au bout d’un moment, le ruisseau débouche sur un petit lac caché au milieu des arbres. Sur la rive, une barque solitaire vous attend, attachée à un vieux pieu en bois. Le lac est calme, mais une étrange lueur émane des profondeurs de l’eau, comme si quelque chose vous y attendait."
+
+choices:
+  - chapter: 45.yaml  
+    text: Prendre la barque et explorer le lac  
+  - chapter: 46.yaml  
+    text: Observer la lueur du lac depuis la rive  
+  - chapter: 9.yaml  
+    text: Revenir sur vos pas le long du ruisseau

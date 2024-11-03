@@ -1,0 +1,8 @@
+title: Effets de la potion de vérité
+text: "En buvant la potion de vérité, votre vision devient claire, et des souvenirs de lieux et de visages inconnus affluent dans votre esprit. Vous pouvez désormais voir au-delà des illusions, mais cet état vous expose également à toutes les vérités cachées, même celles qui pourraient vous effrayer. Une silhouette inquiétante vous observe depuis les ombres, comme une vérité qui refuse de rester secrète."
+
+choices:
+  - chapter: 73.yaml  
+    text: Approcher la silhouette pour découvrir sa nature  
+  - chapter: 74.yaml  
+    text: Fermer les yeux et essayer de chasser les visions

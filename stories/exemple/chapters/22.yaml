@@ -1,0 +1,8 @@
+title: La créature de lumière
+text: "Vous suivez la petite créature lumineuse à travers la forêt. Elle vous mène jusqu’à un cercle de champignons qui émettent une douce lueur. En entrant dans le cercle, vous ressentez un puissant pouvoir vous envahir, comme si la forêt elle-même vous bénissait. La créature virevolte une dernière fois autour de vous avant de disparaître. Vous ressentez maintenant une connexion spéciale avec la nature environnante, comme si elle vous protégeait."
+
+choices:
+  - chapter: 43.yaml  
+    text: Utiliser ce nouveau pouvoir pour explorer davantage la forêt  
+  - chapter: 24.yaml  
+    text: Quitter le cercle et suivre le ruisseau

@@ -1,0 +1,8 @@
+title: Pouvoir de la forêt
+text: "Vous sentez la forêt elle-même vous guider, et les dangers semblent s’écarter devant vous. Votre lien avec la nature devient de plus en plus profond, vous permettant de percevoir les pensées des créatures et de ressentir les flux d'énergie des arbres et des rivières. Ce pouvoir vous offre un avantage immense, mais vous lie aussi à la forêt de façon irréversible."
+
+choices:
+  - chapter: 75.yaml  
+    text: Utiliser ce pouvoir pour trouver le sanctuaire central de la forêt  
+  - chapter: 23.yaml  
+    text: Revenir vers la clairière pour y méditer

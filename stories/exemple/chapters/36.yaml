@@ -1,0 +1,8 @@
+title: Le secret de la pierre gravée
+text: "En examinant la pierre gravée, vous sentez une énergie vibrante qui résonne en vous. Lorsque vous posez la main dessus, des symboles lumineux apparaissent et forment un chemin éthéré dans la direction du nord. La pierre semble vous indiquer un lieu précis où se cache un artefact ancien. La sensation d’un pouvoir ancien vous envahit, et vous sentez que ce chemin pourrait vous rapprocher de votre but."
+
+choices:
+  - chapter: 64.yaml  
+    text: Suivre le chemin lumineux indiqué par la pierre  
+  - chapter: 37.yaml  
+    text: Ignorer le chemin et explorer la forêt par vous-même

@@ -1,0 +1,8 @@
+title: Exploration de la clairière
+text: "Vous décidez d'explorer la clairière plus en détail. En marchant autour, vous découvrez une série de symboles gravés sur des arbres et des rochers. Ces symboles semblent représenter un ancien rituel de protection. En les étudiant de plus près, une lueur verte émanant des gravures semble se renforcer, comme si vous activiez quelque chose de dormant. Une sensation de calme et de sécurité vous envahit, mais vous sentez également que ce lieu cache des secrets plus profonds."
+
+choices:
+  - chapter: 49.yaml  
+    text: Continuer d’activer les symboles pour percer le secret de la clairière  
+  - chapter: 50.yaml  
+    text: Quitter la clairière et suivre un chemin qui mène vers le sud
