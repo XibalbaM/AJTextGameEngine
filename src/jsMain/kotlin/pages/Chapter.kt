@@ -8,6 +8,7 @@ import com.varabyte.kobweb.compose.ui.Modifier
 import com.varabyte.kobweb.compose.ui.modifiers.gap
 import com.varabyte.kobweb.core.Page
 import com.varabyte.kobweb.core.rememberPageContext
+import com.varabyte.kobweb.navigation.RoutePrefix
 import com.varabyte.kobweb.silk.components.forms.Button
 import fr.xibalba.ajTextGameEngine.data.stories
 import fr.xibalba.ajTextGameEngine.layouts.PageLayout
@@ -16,6 +17,7 @@ import org.jetbrains.compose.web.css.px
 import org.jetbrains.compose.web.dom.H1
 import org.jetbrains.compose.web.dom.H2
 import org.jetbrains.compose.web.dom.Text
+import web.svg.SVG.path
 
 @Page("/histoires/{id}/{chapter}")
 @Composable
@@ -38,7 +40,7 @@ fun Chapter() {
                 Row(Modifier.gap(10.px)) {
                     for (edge in edges) {
                         Button(onClick = {
-                            ctx.router.navigateTo("/histoires/${story.id}/${edge.to}")
+                            ctx.router.navigateTo(RoutePrefix.prepend("/histoires/${story.id}/${edge.to}"))
                         }) {
                             +edge.data
                         }
@@ -50,13 +52,13 @@ fun Chapter() {
                 }
                 Row(Modifier.gap(10.px)) {
                     Button(onClick = {
-                        ctx.router.navigateTo("/histoires")
+                        ctx.router.navigateTo(RoutePrefix.prepend("/histoires"))
                     }) {
                         +"Retour à la liste"
                     }
 
                     Button(onClick = {
-                        ctx.router.navigateTo("/histoires/${story.id}")
+                        ctx.router.navigateTo(RoutePrefix.prepend("/histoires/${story.id}"))
                     }) {
                         +"Retour au début"
                     }

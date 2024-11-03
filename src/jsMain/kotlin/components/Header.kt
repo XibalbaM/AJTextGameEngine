@@ -7,6 +7,7 @@ import com.varabyte.kobweb.compose.ui.Alignment
 import com.varabyte.kobweb.compose.ui.Modifier
 import com.varabyte.kobweb.compose.ui.modifiers.*
 import com.varabyte.kobweb.core.rememberPageContext
+import com.varabyte.kobweb.navigation.RoutePrefix
 import com.varabyte.kobweb.silk.components.forms.Button
 import com.varabyte.kobweb.silk.components.forms.ButtonStyle
 import com.varabyte.kobweb.silk.components.icons.mdi.MdiDarkMode
@@ -48,7 +49,7 @@ fun Header(routes: Set<Pair<String, String>>) {
         horizontalArrangement = Arrangement.SpaceBetween) {
         Row(verticalAlignment = Alignment.CenterVertically) {
             routes.forEach { (path, title) ->
-                Button(onClick = { ctx.router.navigateTo(path) },
+                Button(onClick = { ctx.router.navigateTo(RoutePrefix.prepend(path)) },
                     if (path === currentPath) focusedModifier(theme.toPalette()) else Modifier,
                     HeaderButtonStyle) {
                     Text(title)
