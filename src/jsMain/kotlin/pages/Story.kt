@@ -13,6 +13,9 @@ import fr.xibalba.ajTextGameEngine.utils.unaryPlus
 import org.jetbrains.compose.web.dom.H1
 import org.jetbrains.compose.web.dom.Text
 
+/**
+ * La page de présentation d'une histoire.
+ */
 @Page("/histoires/{id}")
 @Composable
 fun Story() {

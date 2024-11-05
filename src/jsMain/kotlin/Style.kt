@@ -14,6 +14,9 @@ import com.varabyte.kobweb.silk.theme.colors.palette.button
 import com.varabyte.kobweb.silk.theme.colors.palette.color
 import fr.xibalba.ajTextGameEngine.utils.centered
 
+/**
+ * On définit les breakpoints de l'application
+ */
 @InitSilk
 fun initializeBreakpoints(ctx: InitSilkContext) {
     ctx.theme.breakpoints = BreakpointSizes(
@@ -24,6 +27,9 @@ fun initializeBreakpoints(ctx: InitSilkContext) {
     )
 }
 
+/**
+ * On définit le thème de l'application
+ */
 @InitSilk
 fun overrideTheme(ctx: InitSilkContext) {
     ctx.stylesheet.registerStyleBase("body") {

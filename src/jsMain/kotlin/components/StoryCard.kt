@@ -17,8 +17,10 @@ import fr.xibalba.ajTextGameEngine.utils.unaryPlus
 import org.jetbrains.compose.web.css.percent
 import org.jetbrains.compose.web.css.px
 import org.jetbrains.compose.web.dom.H2
-import web.svg.SVG.path
 
+/**
+ * La présentation d'une histoire pour l'écran de liste des histoires.
+ */
 @Composable
 fun StoryCard(story: Story) {
     val ctx = rememberPageContext()

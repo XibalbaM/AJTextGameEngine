@@ -15,6 +15,9 @@ import fr.xibalba.ajTextGameEngine.utils.unaryPlus
 import org.jetbrains.compose.web.css.*
 import org.jetbrains.compose.web.dom.H1
 
+/**
+ * La page de liste des histoires. J'utilise une grille pour afficher la liste, avec un nombre de colonnes qui dépend de la taille de l'écran.
+ */
 @Page("/histoires")
 @Composable
 fun Stories() {

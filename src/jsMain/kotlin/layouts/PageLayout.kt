@@ -12,22 +12,28 @@ import fr.xibalba.ajTextGameEngine.components.HEADER_HEIGHT
 import fr.xibalba.ajTextGameEngine.components.Header
 import fr.xibalba.ajTextGameEngine.components.setTitle
 import fr.xibalba.ajTextGameEngine.utils.marginXAuto
-import org.jetbrains.compose.web.css.minus
-import org.jetbrains.compose.web.css.percent
-import org.jetbrains.compose.web.css.vh
+import org.jetbrains.compose.web.css.*
 import org.jetbrains.compose.web.dom.Main
 import web.window.window
 
+/**
+ * Le thème principal de l'application.
+ */
 val MainTheme = CssStyle.base {
     Modifier
         .margin {
             top(HEADER_HEIGHT)
         }
         .marginXAuto()
-        .width(98.percent)
+        .width(100.vw - 30.px)
         .minHeight(100.vh - HEADER_HEIGHT)
 }
 
+/**
+ * Le layout de toutes les pages de l'application. Prend en paramètre le titre et le contenu de la page.
+ *
+ * Scroll en haut de la page à chaque changement de page.
+ */
 @Composable
 fun PageLayout(title: String, content: @Composable () -> Unit) {
     setTitle(title)

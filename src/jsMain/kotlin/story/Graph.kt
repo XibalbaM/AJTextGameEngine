@@ -1,9 +1,24 @@
 package fr.xibalba.ajTextGameEngine.story
 
-data class Vertex<T : Any?>(val id: Int, val data: T)
+/**
+ * Représente un sommet d'un graphe
+ *
+ * Peut prendre n'importe quel type de données
+ */
+data class Vertex<T>(val id: Int, val data: T)
 
+/**
+ * Représente une arête d'un graphe
+ *
+ * Peut prendre n'importe quel type de données
+ */
 data class Edge<T>(val from: Int, val to: Int, val data: T)
 
+/**
+ * Un graphe.
+ *
+ * J'utilise une liste de sommets et une liste d'arêtes, car chaque arrête est unique comme elle contient une donnée (donc je ne peux pas utiliser de matrice d'adjacence)
+ */
 data class Graph<T, U>(val vertices: Set<Vertex<T>>, val edges: Set<Edge<U>>) {
     fun getEdges(from: Vertex<T>): Set<Edge<U>> {
         return edges.filter { it.from == from.id }.toSet()
@@ -18,6 +33,11 @@ data class Graph<T, U>(val vertices: Set<Vertex<T>>, val edges: Set<Edge<U>>) {
     }
 }
 
+/**
+ * Builder pour construire un graphe
+ *
+ * Voir GraphExample.kt pour un exemple d'utilisation
+ */
 class GraphBuilder<T, U> {
     private val vertices = mutableSetOf<Vertex<T>>()
     private val edges = mutableSetOf<Edge<U>>()

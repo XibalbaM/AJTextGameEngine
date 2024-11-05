@@ -22,10 +22,21 @@ import fr.xibalba.ajTextGameEngine.utils.centered
 import org.jetbrains.compose.web.css.*
 import org.jetbrains.compose.web.dom.Text
 
+/**
+ * La hauteur du header. Une constante car elle est réutilisée pour calculer la hauteur min de la page principale.
+ */
 val HEADER_HEIGHT = 75.px
 
+/**
+ * Le style des boutons du header qui sont actuellement sélectionnés ou survolés.
+ *
+ * Dans une variable car il est utilisé à deux endroits différents.
+ */
 val focusedModifier: (Palette) -> Modifier = { Modifier.backgroundColor(it.background.centered(0.15f)) }
 
+/**
+ * Le style des boutons du header.
+ */
 val HeaderButtonStyle = ButtonStyle.addVariant {
     base {
         Modifier.size(HEADER_HEIGHT).backgroundColor(Color.transparent).borderRadius(0.px)
@@ -35,6 +46,9 @@ val HeaderButtonStyle = ButtonStyle.addVariant {
     }
 }
 
+/**
+ * Le header de l'application. Prend en paramètre la liste des liens de la barre de navigation.
+ */
 @Composable
 fun Header(routes: Set<Pair<String, String>>) {
     var theme by ColorMode.currentState
