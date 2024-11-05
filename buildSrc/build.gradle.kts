@@ -1,5 +1,5 @@
 plugins {
-    `kotlin-dsl`
+    `kotlin-dsl` // Plugin utilisé pour un projet Kotlin visant la JVM, ce qui est le cas du code de buildSrc
 }
 
 repositories {
@@ -7,5 +7,5 @@ repositories {
 }
 
 dependencies {
-    implementation("net.mamoe.yamlkt:yamlkt:0.13.0")
+    implementation("net.mamoe.yamlkt:yamlkt:0.13.0") // Dépendance pour manipuler des fichiers YAML
 }

@@ -1,3 +1,8 @@
+/**
+ * Une fichier qui centralise les dépendances pour simplifier la gestion des versions
+ *
+ * Il est utilisé dans le build.gradle.kts
+ */
 object Dependencies {
     object Versions {
         const val COMPOSE = "1.6.11"
